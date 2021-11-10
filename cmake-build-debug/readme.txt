@@ -1,0 +1,2 @@
+Name: Yong Cheng
+There might be some problems with my computer because the same code can run in others’ computer.s But I tried many times and modified the code many times, I still couldn’t get a correct output. Besides, It takes me more than 10mins to generate a wrong picture ppm. My computer is a MacBook Pro early2013. IDE is Clion.
