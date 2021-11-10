@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chengyong/Downloads/as/slVector.H
+cmath
+-
+cstdlib
+-
+iostream
+-
+
+/Users/chengyong/Downloads/as/trace.H
+slVector.H
+/Users/chengyong/Downloads/as/slVector.H
+vector
+-
+
+/Users/chengyong/Downloads/as/trace.cpp
+trace.H
+/Users/chengyong/Downloads/as/trace.H
+string
+-
+sstream
+-
+fstream
+-
+iostream
+-
+getopt.h
+-
+values.h
+-
+
