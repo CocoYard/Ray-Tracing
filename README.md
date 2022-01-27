@@ -18,14 +18,14 @@
 ### Step 1: bounding test
 
 <div align=center>
-<img height=400px src="https://github.com/CocoYard/raytracing/blob/main/img/balls.png"/>
-<img height=400px src="https://github.com/CocoYard/raytracing/blob/main/img/teapot1.png"/>
+<img height=350px src="https://github.com/CocoYard/raytracing/blob/main/img/balls.png"/>
+<img height=350px src="https://github.com/CocoYard/raytracing/blob/main/img/teapot1.png"/>
 </div>
 
 ### Step 2: Shading (by Phong BRDF)
 
 <div align=center>
-<img height=450px src="https://github.com/CocoYard/raytracing/blob/main/img/both.png"/>
+<img height=350px src="https://github.com/CocoYard/raytracing/blob/main/img/both.png"/>
 </div>
 
 ### Step 3: Trace
