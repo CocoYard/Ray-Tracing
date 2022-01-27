@@ -1,4 +1,4 @@
-# raytracing
+# Ray Tracing
 
 ## Shading by 2 types of BRDF
 
