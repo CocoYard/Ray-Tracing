@@ -1,1 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/c++   -std=c++11 -m64 -O3 -funroll-loops -Wno-narrowing -Wno-deprecated-register -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/as2.dir/trace.cpp.o CMakeFiles/as2.dir/slVector.cpp.o  -o as2 
